@@ -1,0 +1,16 @@
+Data,Produto,Categoria,Quantidade,Preco_Unitario,Receita
+2025-01-01,Notebook,Eletrônicos,2,3500.00,
+2025-01-02,Smartphone,Eletrônicos,5,2000.00,
+2025-01-02,Mouse,Periféricos,10,50.00,
+2025-01-03,Teclado,Periféricos,8,120.00,
+2025-01-04,Smart TV,Eletrônicos,3,2500.00,
+2025-01-05,Monitor,Periféricos,4,800.00,
+2025-01-05,Fone de Ouvido,Periféricos,7,150.00,
+2025-01-06,Impressora,Escritório,2,1200.00,
+2025-01-06,Notebook,Eletrônicos,1,3500.00,
+2025-01-07,Papel A4,Escritório,20,20.00,
+2025-01-07,Mouse,Periféricos,5,50.00,
+2025-01-08,Smartphone,Eletrônicos,3,2000.00,
+2025-01-09,Smart TV,Eletrônicos,1,2500.00,
+2025-01-10,Fone de Ouvido,Periféricos,10,150.00,
+2025-01-11,Teclado,Periféricos,4,120.00
